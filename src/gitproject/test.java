@@ -10,7 +10,7 @@ public class test {
 			} else if (i % 2 == 0) {
 				System.out.println(i + ":偶数");
 			}
-
+			System.out.println("テスト");
 		}
 
 	}
